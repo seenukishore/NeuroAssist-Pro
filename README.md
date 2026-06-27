@@ -1,4 +1,4 @@
-# 🧠 NeuroAssist — AI Agent Pro
+# NeuroAssist — AI Agent Pro
 
 > A production-level AI Agent with real-time web search, long-term memory, RAG-based document chat, and a modern React frontend.
 
@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - 🌐 **Real-time Web Search** — Live internet access via Tavily API
 - 🧠 **Long-term Memory** — Remembers past conversations using ChromaDB
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.10+
@@ -81,11 +81,11 @@ cd frontend
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) 🚀
+Open [http://localhost:5173](http://localhost:5173) 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 NeuroAssist-Pro/
 
@@ -107,7 +107,7 @@ NeuroAssist-Pro/
 
 ---
 
-## 🎯 How It Works
+## How It Works
 
 1. **User sends a message** via the React frontend
 2. **FastAPI backend** receives the request
@@ -120,11 +120,11 @@ NeuroAssist-Pro/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Kishore Kumar**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- GitHub: [@seenukishore](https://github.com/seenukishore)
+- LinkedIn: [linkedin.com/in/kishore-kumar-seenu](https://www.linkedin.com/in/kishore-kumar-seenu/)
 
 ---
 
