@@ -32,6 +32,16 @@
 
 ---
 
+## Screenshots
+
+### Dashboard
+![Dashboard](screenshots/Screenshot%202026-07-05%20102857.png)
+
+### Chat Interface
+![Chat Interface](screenshots/Screenshot%202026-07-05%20103924.png)
+
+---
+
 ## Getting Started
 
 ### Prerequisites
