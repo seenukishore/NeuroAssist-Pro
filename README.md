@@ -7,6 +7,8 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA3-orange?style=for-the-badge)
 
+[Live Demo](https://industrious-enthusiasm-production.up.railway.app/) - https://industrious-enthusiasm-production.up.railway.app/
+
 ---
 
 ## Features
