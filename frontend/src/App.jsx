@@ -25,7 +25,7 @@ export default function App() {
     setInput("")
     setLoading(true)
     try {
-      const res = await axios.post("/api/chat", {
+      const res = await axios.post(`${import.meta.env.VITE_API_URL}/api/chat`, {
         message: msg,
         web_search: webSearch,
         use_memory: memory,
@@ -45,7 +45,7 @@ export default function App() {
     setFile(f)
     const formData = new FormData()
     formData.append("file", f)
-    await axios.post("/api/upload", formData)
+    await axios.post(`${import.meta.env.VITE_API_URL}/api/upload`, formData)
   }
 
   const Toggle = ({ value, onChange }) => (
